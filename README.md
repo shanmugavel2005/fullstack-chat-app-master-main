@@ -1,12 +1,12 @@
 **Company**: CODETECH IT SOLUTIONS  
 
-**Name**  : PRAKASH V
+**Name**  : SHANMUGAVEL V
 
-**Id**:CT08ECB
+**Id**:CT08HHB
 
 **Domain**:FULl STACK WEB DEVOPLEMENT
 
-**Batch Duration**: Dec 17th 2024 to Jan 17th, 2025 
+**Batch Duration**: Dec 30th 2024 to Jan 30th, 2025 
 
 **Mentor Name** : NEELA SANTHOSH
 
